@@ -16,15 +16,7 @@ I'm a **B.Tech Computer Science student** specializing in **Artificial Intellige
 - **Databases:** MySQL
 - **Tools & Platforms:** Git, Linux, Scrapy, NLTK
 
-## 📌 Major Projects
-### 🔹 [Ani-verse](https://github.com/Mridul-23/ani-verse)
-A smart anime recommendation system with **BERT embeddings, FAISS indexing, and LinUCB algorithms**.
-
-### 🔹 [ProLearn](https://github.com/Mridul-23/prolearn)
-An **AI-powered knowledge hub** featuring personalized study plans, an AI chatbot, and content recommendations.
-
 ## 📫 Let's Connect!
-- **GitHub:** [here?](https://github.com/Mridul-23)
 - **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/mridul-narula-55338524b/)
 - **Email:** mridulnarula23@gmail.com
 

@@ -13,7 +13,7 @@ I'm a **B.Tech Computer Science student** specializing in **Artificial Intellige
 - **Languages:** Python, JavaScript, C++
 - **AI/ML:** Scikit-Learn, TensorFlow, Keras, FAISS, Transformers
 - **Web Development:** React.js, Django, Django REST Framework
-- **Databases:** MySQL
+- **Databases:** MySQL, PostgreSQL
 - **Tools & Platforms:** Git, Linux, Scrapy, NLTK
 
 ## 📫 Let's Connect!

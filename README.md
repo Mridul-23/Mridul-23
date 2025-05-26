@@ -4,10 +4,10 @@
 I'm a **B.Tech Computer Science student** specializing in **Artificial Intelligence and Machine Learning**. Passionate about deep learning, web development, and physics, I love working on innovative projects that blend AI with practical applications.
 
 - 🔭 Currently building **ProLearn**, an AI-powered personalized knowledge hub.
-- 🌐 Created **Ani-verse**, an anime recommendation platform using **FAISS & BERT embeddings**.
+- 🌐 Created **[Ani-verse](https://ani-verse-amber.vercel.app/)**, an anime recommendation platform using **FAISS & BERT embeddings** with **ReactJS & Django Reat Framework**.
 - 🕸️ Done **Web Scraping** in both static and dynamic enviroments.
 - 📖 Interested in **astrophysics** and **quantum physics** as a hobby.
-- 🎮 Love **anime, gaming theories, and tech research**.
+- 🎮 Love **anime, physics, and tech research**.
 
 ## 🛠️ Tech Stack
 - **Languages:** Python, JavaScript, C++

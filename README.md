@@ -83,8 +83,8 @@ I'm a **B.Tech Computer Science student** specializing in **Artificial Intellige
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mridul-23&layout=compact&theme=tokyonight&hide_border=true" height="175px"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mridul-23&theme=tokyonight&utcOffset=5.5" height="175px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mridul-23&layout=compact&theme=tokyonight&hide_border=true" height="165px"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mridul-23&theme=tokyonight&utcOffset=5.5" height="165px"/>
 </p>
 
 
@@ -103,7 +103,7 @@ I'm a **B.Tech Computer Science student** specializing in **Artificial Intellige
 
 </div>
 
-<p align="center" style="font-family: 'Ubuntu', sans-serif;">“Vibing in the chaos of logics”</p>
+<p align="center" style="font-family: 'Ubuntu', sans-serif;"> <code><em>“Vibing in the chaos of logics”</em></code> </p>
 
 <!-- 🌌 Outro Divider -->
 <p align="center">

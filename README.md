@@ -68,29 +68,6 @@ I'm a **B.Tech Computer Science student** specializing in **Artificial Intellige
 </div>
 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="70%"/>
-</p>
-
-<div align="center">
-
-## 📊 GitHub Dashboard
-
-<p>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mridul-23&theme=tokyonight" alt="Profile details badge" height="165px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mridul-23&theme=tokyonight&hide_border=true" height="165px"/>
-  
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mridul-23&layout=compact&theme=tokyonight&hide_border=true" height="165px"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mridul-23&theme=tokyonight&utcOffset=5.5" height="165px"/>
-</p>
-
-
-</div>
-
-
 <!-- 🐍 Snake Divider -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/refs/heads/master/assets/lines/grass.png" width="60%"/>
